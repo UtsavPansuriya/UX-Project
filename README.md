@@ -1,4 +1,4 @@
-# LifePulse – Healthcare Companion App
+# Group 19  LifePulse – Healthcare Companion App
 
 **LifePulse** is a user-friendly healthcare application designed to streamline medical services and enhance accessibility to essential healthcare features.  
 From managing health records to booking appointments, LifePulse brings everything you need into one seamless platform.
@@ -30,14 +30,3 @@ From managing health records to booking appointments, LifePulse brings everythin
 
 ---
 
-## 📬 Contact
-
-Feel free to reach out for suggestions, questions, or contributions.
-
-GitHub: [https://github.com/your-username](https://github.com/your-username)
-
----
-
-## 📃 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
